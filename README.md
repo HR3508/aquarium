@@ -1,5 +1,3 @@
 # aquarium
 
-poisson clown
-poisson lune
-requin
+ma liste de poissons
